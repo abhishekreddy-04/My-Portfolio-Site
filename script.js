@@ -1,4 +1,4 @@
-<script>
+
 
   /* DARK / LIGHT MODE */
 
@@ -126,5 +126,3 @@
   );
 
   revealSections();
-
-</script>
