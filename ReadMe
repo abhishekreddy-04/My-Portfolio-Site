@@ -1,25 +1,59 @@
-# My Portfolio Website
+# Personal Portfolio Website
 
-Welcome to my personal portfolio website.
-
-## Live Demo
-
-https://abhishekreddy-04.github.io/My-Portfolio-Site/
+## Overview
+This is my personal portfolio website built using HTML5, CSS3, and JavaScript. It showcases my skills, projects, education, and contact information in a clean, responsive, and user-friendly interface.
 
 ## Features
 
-- Responsive Design
-- About Me
-- Skills
-- Projects
-- Contact Form
+- Responsive design for desktop, tablet, and mobile
+- Modern and clean user interface
+- Smooth navigation
+- Interactive JavaScript components
+- Projects section
+- Skills section
+- About Me section
+- Contact section
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## What I Learned
+
+Through this project, I gained practical experience in:
+
+- Semantic HTML
+- Responsive Web Design
+- CSS Flexbox and Grid
+- JavaScript DOM Manipulation
+- Event Handling
+- Debugging and Problem Solving
+- Project Structure and Organization
+
+## Project Structure
+
+```
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+└── README.md
+```
+
+## Future Improvements
+
+- Dark Mode
+- Project filtering
+- Contact form validation
+- Backend integration
+- Performance optimization
 
 ## Author
 
 Abhishek Reddy
+
+Aspiring Full Stack Developer
